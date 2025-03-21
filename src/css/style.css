@@ -1,0 +1,8 @@
+/* import your font (google font link) */
+
+/* ===No Maring,Padding Added=== */
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
